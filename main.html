@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main Page</title>
+    <link rel="stylesheet" href="main.css">
+    <script src="redirect.js"></script> <!-- Added script to check login status -->
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">MyLogo</div>
+        <div class="user-menu">
+            <img src="https://i.pravatar.cc/300" alt="User Icon" class="user-icon">
+            <div class="dropdown">
+                <button class="dropbtn">User Name &#x25BC;</button>
+                <div class="dropdown-content">
+                    <a href="#">Settings</a>
+                    <a href="#" onclick="logout()">Logout</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <h1>Welcome to the Main Page</h1>
+        <div class="button-container">
+            <a href="/"><button class="primary">Start Test Now!</button></a>
+        </div>
+    </div>
+    <script>
+        function logout() {
+            localStorage.removeItem('isLoggedIn');
+            window.location.href = 'login.html';
+        }
+    </script>
+</body>
+</html>

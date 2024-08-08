@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Generator</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">MyLogo</div>
+        <div class="user-menu">
+            <img src="https://i.pravatar.cc/300" alt="User Icon" class="user-icon">
+            <div class="dropdown">
+                <button class="dropbtn">User Name &#x25BC;</button>
+                <div class="dropdown-content">
+                    <a href="#">Settings</a>
+                    <a href="#" onclick="logout()">Logout</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <h1>Quiz Generator</h1>
+        <label for="courses">Select Course:</label>
+        <select id="courses">
+            <option value="">--Select Course--</option>
+            <option value="course1">Course 1</option>
+            <option value="course2">Course 2</option>
+        </select>
+        <label for="chapters">Select Chapter:</label>
+        <select id="chapters" disabled>
+            <option value="">--Select Chapter--</option>
+            <option value="chapter1">Chapter 1</option>
+            <option value="chapter2">Chapter 2</option>
+        </select>
+        <button id="generate-questions" disabled>Generate Questions</button>
+        <form id="questions-form">
+            <div id="questions"></div>
+            <button type="button" id="submit-answers" style="display: none;">Submit</button>
+        </form>
+        <div id="score"></div>
+    </div>
+    <script>
+        function logout() {
+            localStorage.removeItem('isLoggedIn');
+            window.location.href = 'login.html';
+        }
+    </script>
+</body>
+</html>
