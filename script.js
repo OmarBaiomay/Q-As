@@ -51,7 +51,7 @@ async function generateQuestions(text) {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
-            'Authorization': `Bearer sk-JO3YB4Fb51bxFVgQfiRs-SzAvI4YDirav_MJgoJdfwT3BlbkFJf_CEkUGgGZoZuuV3flKUlWQREccPkug4JEwvOj-qUA`
+            'Authorization': `Bearer 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`
         },
         body: JSON.stringify({
             model: 'gpt-3.5-turbo',
@@ -91,6 +91,61 @@ function displayQuestions(questions) {
     });
 }
 
+function parseQuestions(content) {
+    const questions = [];
+    const lines = content.split('\n').filter(line => line.trim() !== '');
+    console.log('Parsed Lines:', lines);
+
+    let currentQuestion = null;
+    let currentOptions = [];
+    let correctAnswer = '';
+
+    lines.forEach(line => {
+        line = line.trim();
+        if (/^\d+\./.test(line)) { // Match lines starting with "1.", "2.", etc.
+            if (currentQuestion) {
+                if (currentOptions.length > 0) {
+                    currentQuestion.options = currentOptions.map(option => ({
+                        ...option,
+                        correct: option.text.trim().toLowerCase() === correctAnswer.trim().toLowerCase()
+                    }));
+                    questions.push(currentQuestion);
+                }
+            }
+            currentQuestion = { question: line.replace(/^\d+\.\s*/, ''), options: [], explanation: '' };
+            currentOptions = [];
+            correctAnswer = '';
+        } else if (/^[a-d]\)/i.test(line)) { // Match lines starting with "a)", "b)", etc.
+            const text = line.replace(/^[a-d]\)\s*/, '').trim();
+            currentOptions.push({ text, correct: false });
+        } else if (/^\*\*Answer:\s/i.test(line)) { // Match lines starting with "**Answer:"
+            const answerLine = line.replace(/^\*\*Answer:\s*/, '').trim();
+            const match = answerLine.match(/([a-d])\)/i);
+            if (match) {
+                const answerIndex = match[1].toLowerCase().charCodeAt(0) - 'a'.charCodeAt(0);
+                correctAnswer = currentOptions[answerIndex]?.text;
+            }
+        } else if (/^\*\*Explanation:\s*/.test(line)) { // Match lines starting with "**Explanation:"
+            if (currentQuestion) {
+                const explanation = line.replace(/^\*\*Explanation:\s*/, '').trim();
+                currentQuestion.explanation = explanation;
+            }
+        }
+    });
+
+    // Ensure the last question is added
+    if (currentQuestion && currentOptions.length > 0) {
+        currentQuestion.options = currentOptions.map(option => ({
+            ...option,
+            correct: option.text.trim().toLowerCase() === correctAnswer.trim().toLowerCase()
+        }));
+        questions.push(currentQuestion);
+    }
+
+    console.log('Parsed Questions:', questions);
+    return questions;
+}
+
 function validateAnswers() {
     const questionsDiv = document.getElementById('questions');
     const questions = questionsDiv.querySelectorAll('.question');
@@ -116,58 +171,4 @@ function validateAnswers() {
 
     const scoreDiv = document.getElementById('score');
     scoreDiv.textContent = `You got ${correctCount} out of ${questions.length} correct!`;
-}
-
-
-function parseQuestions(content) {
-    const questions = [];
-    const lines = content.split('\n').filter(line => line.trim() !== '');
-    console.log('Parsed Lines:', lines);
-
-    let currentQuestion = null;
-    let currentOptions = [];
-    let correctAnswer = '';
-
-    lines.forEach(line => {
-        line = line.trim();
-        if (/^\d+\./.test(line)) { // Match lines starting with "1.", "2.", etc.
-            if (currentQuestion) {
-                if (currentOptions.length > 0) {
-                    currentQuestion.options = currentOptions.map(option => ({
-                        ...option,
-                        correct: option.text.trim().toLowerCase() === correctAnswer.trim().toLowerCase()
-                    }));
-                    questions.push(currentQuestion);
-                }
-            }
-            currentQuestion = { question: line.replace(/^\d+\.\s*/, ''), options: [], explanation: '' };
-            currentOptions = [];
-            correctAnswer = '';
-        } else if (/^[A-D]\)/.test(line)) { // Match lines starting with "A)", "B)", etc.
-            const text = line.replace(/^[A-D]\)\s*/, '').trim();
-            currentOptions.push({ text, correct: false });
-        } else if (/^Explanation:/.test(line) || /^\*\*Explanation:/.test(line)) {
-            if (currentQuestion) {
-                const explanation = line.replace(/^(\*\*Explanation:|Explanation:)\s*/, '').trim();
-                currentQuestion.explanation = explanation;
-                const match = explanation.match(/The correct answer is ([A-D])\)/i);
-                if (match) {
-                    const answerIndex = match[1].toLowerCase().charCodeAt(0) - 'a'.charCodeAt(0);
-                    correctAnswer = currentOptions[answerIndex]?.text;
-                }
-            }
-        }
-    });
-
-    // Ensure the last question is added
-    if (currentQuestion && currentOptions.length > 0) {
-        currentQuestion.options = currentOptions.map(option => ({
-            ...option,
-            correct: option.text.trim().toLowerCase() === correctAnswer.trim().toLowerCase()
-        }));
-        questions.push(currentQuestion);
-    }
-
-    console.log('Parsed Questions:', questions);
-    return questions;
 }

@@ -1,1 +1,1648 @@
-egypt
+1
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+STUDY UNIT TWO
+GROSS INCOME I
+2.1
+Gross Income  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+2
+This study unit is the 
+first of two
+ that presents items that are included in gross income, income
+items that are excluded from gross income, and income items for which the Internal Revenue Code
+provides a partial exclusion from gross income. The 
+following
+ formula is an overview of the steps to
+compute federal income tax liability for individual taxpayers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+SU 2: Gross Income I
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+2.1   GROSS INCOME
+The IRC (Internal Revenue Code) defines gross income as all income from whatever source
+derived except as otherwise provided.
+1.
+Section 61(a) enumerates types of income that constitute gross income. The list is not exhaustive.
+a.
+Compensation for services, including fees, commissions, and fringe benefits
+b.
+Gross income derived from business
+c.
+Gains derived from dealings in property
+d.
+Interest
+e.
+Rents
+f.
+Royalties
+g.
+Dividends
+h.
+Annuities
+i.
+Income from life insurance and endowment contracts (This is a broader application than
+the general exclusion for proceeds due to death.)
+j.
+Pensions
+k.
+Income from discharge of indebtedness
+l.
+Distributive share of partnership gross income
+m.
+Income in respect of a decedent (income earned but not received before death)
+n.
+Income from an interest in an estate or trust
+A 2017 tax law change removed alimony and separate maintenance payments from the
+above
+ list as divorces executed after 2018 no longer include these items in gross income.
+However, payments under a divorce executed before 2019 are still included in gross
+income and may be tested as such on the exam.
+2.
+Other types of income also constitute gross income unless a statute specifically excludes them.
+a.
+This specifically includes income derived from all sources regardless of whether the
+taxpayer receives a Form W-2 or Form 1099.
+b.
+Form 1099-MISC is used for reporting a variety of types of income not reported on a
+W-2 or other specific Form 1099s. Any errors on this form should be reported to the
+payor. If the payor will not correct and reissue the new form, the taxpayer must attach an
+explanation and report the correct amount.
+
+SU 2: Gross Income I
+3
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+Domestic vs. Foreign Source Income
+3.
+There are several factors that determine the source (domestic or foreign) of a specific type of
+income. The 
+following
+ table explains the general rules:
+Item of Income
+Factor Determining Source
+Salaries, wages, other compensation
+Where services performed
+Business income:
+Personal services
+Sale of inventoryŠpurchased
+Sale of inventoryŠproduced
+ 
+Where services performed
+Where sold
+Allocation
+Interest
+Residence of payor
+Dividends
+Whether a U.S. or foreign corporation
+Rents
+Location of property
+Royalties:
+Natural resources
+Patents, copyrights, etc.
+ 
+Location of property
+Where property is used
+Sale of real property
+Location of property
+Sale of personal property
+Seller™s tax home
+Pension distributions attributable to
+contributions
+When services were performed that
+earned the pension
+Investment earnings on pension contributions
+Location of pension trust
+Sale of natural resources
+Allocation based on fair market value
+of product at export terminal
+4.
+Items are included in income based on the method of accounting used by the taxpayer.
+a.
+The cash method of accounting includes income when constructively received.
+b.
+The accrual method of accounting reports income when
+1)
+All events have occurred fixing the right to receive the income.
+2)
+The amount can be determined with reasonable accuracy.
+c.
+The accrual method of accounting is required when there are inventories.
+d.
+The hybrid method allows a business to use the cash method for the portion of the
+business that is not required to be on the accrual method.
+e.
+Income is reported when it can be estimated with reasonable accuracy. Adjustments are
+made in a later year for any differences between the actual amount and the previously
+reported amounts.
+  E
+XAMPLE
+ 
+2-1              Cash vs. Accrual-Method Income
+Lucy is a calendar-year accrual-method taxpayer. She provided services on December 21, Year 1. She billed
+the customer in the first week of January Year 2 but did not receive payment until February Year 2. She must
+include the amount received for the services in her Year 1 income. If she were on the cash basis, she would
+report the income in Year 2.
+
+4
+SU 2: Gross Income I
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+Constructive Receipt
+5.
+Income, although not actually in a taxpayer™s possession, is constructively received in the taxable
+year during which it is credited to his or her account, set apart for him or her, or otherwise made
+available so that (s)he may draw upon it at any time, or so that (s)he could have drawn upon it
+during the taxable year if notice of intention to withdraw had been given.
+a.
+A check received in the mail is considered to be income on the date received, whether or
+not it is cashed.
+b.
+To determine receipt of income from securities trades, the trade date, rather than the
+settlement date, should be used.
+c.
+However, income is not constructively received if the taxpayer™s control of its receipt is
+subject to substantial limitations or restrictions.
+d.
+Constructive receipt applies to the cash method of accounting. Under the accrual method,
+income is reported in the year earned.
+Claim-of-Right Doctrine
+6.
+A taxpayer receiving payments under a claim of right and without restrictions on its use or
+disposition includes the payment in income in the year received even though the right to retain
+the payment is not yet fixed or the taxpayer may later be required to return it.
+a.
+If payment is not received, then the payment is not included in income.
+Compensation for Services
+7.
+All compensation for personal services is gross income. The form of payment is irrelevant.
+a.
+If services are paid for in property, its fair market value at the time of receipt is gross
+income.
+b.
+The amount included in income becomes the basis in the property.
+c.
+If services were performed for a price agreed on beforehand, the price will be accepted as
+the FMV of the property only if there is no evidence to the contrary.
+d.
+Gross income of an employee includes any amount paid by an employer for a liability
+(including taxes) or expense of the employee.
+e.
+Income from self-employment is included in gross income. The director of a corporation is
+considered self-employed, and all fees are included in gross income.
+f.
+Reported and unreported compensation (e.g., tips) is gross income.
+1)
+Food service employers required to allocate tip income use 8% of food and drink
+sales to determine the allocable amount.
+
+Business Income from Electronic Payments
+8.
+Taxpayers who receive payments in either of the 
+following
+ forms will receive a Form 1099-K,
+Payments Card and Third Party Network Transactions
+, from the payment settlement entity:
+a.
+From payment cards (e.g., credit/debit/stored-valued cards), or
+b.
+Through a third-party network when the total transactions exceed both $20,000 in value
+and 200 in volume for the year.
+
+SU 2: Gross Income I
+5
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+Virtual Currency
+9.
+In some environments, virtual currency, e.g., Bitcoin, operates like ﬁrealﬂ currency (i.e., the coin
+and paper money of the United States or of any other country that is designated as legal tender,
+circulates, and is customarily used and accepted as a medium of exchange in the country of
+issuance), but it does not have legal tender status in any jurisdiction.
+a.
+Virtual currency is treated as property for U.S. federal tax purposes. General tax principles
+that apply to property transactions apply to transactions using virtual currency. Among
+other things, this means that
+1)
+Wages paid to employees using virtual currency are taxable to the employee, must
+be reported by an employer on a Form W-2, and are subject to federal income tax
+withholding and payroll taxes.
+2)
+Payments using virtual currency made to independent contractors and other service
+providers are taxable and self-employment tax rules generally apply. Normally,
+payors must issue Form 1099.
+3)
+The character of gain or loss from the sale or exchange of virtual currency depends
+on whether the virtual currency is a capital asset in the hands of the taxpayer.
+4)
+A payment made using virtual currency is subject to information reporting to the
+same extent as any other payment made in property.
+b.
+A taxpayer who receives virtual currency as payment for goods or services must, in
+computing gross income, include the fair market value of the virtual currency, measured
+in U.S. dollars, as of the date the virtual currency was received.
+Prepaid Income
+10.
+Generally, prepaid income is taxable in the year received whether the taxpayer is on the cash or
+accrual method of accounting.
+a.
+Prepayments for merchandise inventory are not income until the merchandise is shipped.
+Bartering
+11.
+Bartered services or goods are included in gross income at the fair market value of the item(s)
+received in exchange for the services.
+
+6
+SU 2: Gross Income I
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+Assignment of Income
+12.
+Gross income includes income attributable to a person even though the income is received by
+other persons. This doctrine imposes the tax on income on those who earn it, produce the right
+to receive it, enjoy the benefit of it when paid, or control property that is its source.
+  E
+XAMPLE
+ 
+2-2              Assignment of Income
+Swift, a life insurance salesperson, directs his employer to pay his commissions to his daughter. The
+commissions paid to Swift™s daughter are gross income to Swift.
+a.
+The doctrine applies to income earned by personal services or derived from property.
+  E
+XAMPLE
+ 
+2-3              Assignment of Income Derived from Property
+Taxpayer makes a gift of interest earned on securities to her 20-year-old daughter who attends college. The
+interest is gross income to Taxpayer.
+b.
+Assignment of an income-producing asset is effective to shift the gross income to the
+assignee.
+  E
+XAMPLE
+ 
+2-4              Assignment of Income-Producing Asset
+Taxpayer gives the underlying securities to her 20-year-old daughter. Interest earned after the transfer is
+gross income to the daughter.
+c.
+Effective assignment requires that the transfer of property be complete and bona fide,
+with no control retained over either the property or the income it produces, and that the
+transfer take place before the income is actually earned.
+Royalties
+13.
+Royalties are payments to an owner from people who use a right belonging to that owner.
+Royalties constitute ordinary gross income and are not a return of capital.
+Personal Rental Income
+14.
+Cash or the FMV of property or services received for the use of personal property is taxable as
+rental income.
+a.
+Schedule C (not Schedule E, which is for rental of real estate) is used if the taxpayer is
+in the business of renting personal property. A taxpayer is in the business of renting
+personal property if the primary purpose for renting the property is income or profit
+and the taxpayer is involved in the rental activity with continuity and regularity. If rental
+of personal property is not a business, any income and deductions from the rental of
+personal property for profit must be reported on Form 1040 (Schedule 1).
+Not-for-Profit Rental Income
+15.
+If property is not rented to make a profit, under hobby loss rules, taxpayers cannot deduct their
+expenses.
+a.
+Not-for-profit rental income is reported on Form 1040 or 1040-NR. Taxpayers can
+include their casualty losses on the appropriate lines of Schedule A if they itemize their
+deductions.
+b.
+If rental income is more than rental expenses for at least 3 years out of a period of
+5 consecutive years, taxpayers are presumed to be renting property to make a profit.
+
+SU 2: Gross Income I
+7
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+c.
+If taxpayers are starting a rental activity and do not have 3 years showing a profit, they can
+elect to have the presumption made after they have the 5 years of experience required by
+the test. They may choose to postpone the decision of whether the rental is for profit by
+filing Form 5213.
+1)
+Form 5213 must be filed within 3 years after the due date of the return (determined
+without extensions) for the year in which the taxpayer first carried on the activity
+or, if earlier, within 60 days after receiving written notice from the Internal Revenue
+Service proposing to disallow deductions attributable to the activity.
+Alimony
+16.
+Alimony and separate maintenance payments are included in the gross income of the recipient
+(payee) and are deducted from the gross income of the payor for divorce decrees executed
+(i.e., established) prior to 2019. Alimony is not deductible by the payor and is not included in the
+gross income of the recipient if (a) the divorce is finalized after 2018 or (b) a pre-2019 divorce is
+modified after 2018 and that modification expressly provides for exclusion from income.
+a.
+A payment is considered to be alimony (even if paid to a third party, e.g., home mortgage)
+when it is
+1)
+Paid in cash
+2)
+Paid pursuant to a written divorce or separation instrument
+3)
+Not designated as other than alimony
+4)
+Terminated at death of recipient
+5)
+Not paid to a member of the same household
+6)
+Not paid to a spouse with whom the taxpayer is filing a joint return
+Child Support
+b.
+Child support payments are an exclusion from the gross income of the recipient and are
+not deductible by the payor. These payments are not alimony.
+1)
+If the divorce or separation instrument specifies payments of both alimony and
+child support, and only partial payments are made, then the partial payments are
+considered to be child support until this obligation is fully paid, and any excess is
+then treated as alimony.
+2)
+If the payment amount is to be reduced based on a contingency relating to a child
+(e.g., attaining a certain age, marrying), the amount of the reduction will be treated
+as child support.
+Property Settlement
+c.
+Property settlements, which are simply a division of property, are not treated as alimony.
+1)
+Property transferred to a spouse or former spouse incident to a divorce is treated as
+a transfer by gift, which is specifically excluded from gross income.
+a)
+ﬁIncident to a divorceﬂ means a transfer of property within 1 year after the date
+the marriage ceases or a transfer of property related to the cessation of the
+marriage.
+b)
+This exclusion does not apply if the spouse or former spouse is a nonresident
+alien.
+
+8
+SU 2: Gross Income I
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+Annuity Contracts
+17.
+The portion of amounts received under an annuity contract for which a statute does not provide
+an exclusion is gross income. Taxpayers are permitted to recover the cost of the annuity (the
+price paid) tax-free.
+  E
+XAMPLE
+ 
+2-5              Annuity Contracts
+Donna paid $1,200 for an annuity that pays $200 per month for an entire year, for a total of $2,400 ($200 ×
+12 months). The percentage of each payment that can be excluded is 50% ($1,200 price of annuity ÷ $2,400
+total payments). Therefore, Donna may exclude $100 ($200 × 50%) of each payment from income for a total
+of $1,200 ($100 × 12 months).
+401(k) Plans
+18.
+Employer contributions generally are not included in the income of the participant.
+Income from Life Insurance and Endowment Contracts
+19.
+Proceeds received due to the death of the insured are generally excluded from gross income.
+a.
+Interest paid on the proceeds of a policy that is paid out over time is gross income to the
+beneficiary.
+b.
+The amount excluded from gross income of an applicable policy holder with respect to
+an employer-owned life insurance contract is not to exceed the premiums and other
+amounts paid by the policyholder for the life insurance policy.
+1)
+The income inclusion rule does not apply to a member of the insured™s family, to
+any individual who is the designated beneficiary of the insured under the contract
+(other than an applicable policy holder), to a trust established for the benefit of the
+insured™s family or a designated beneficiary, or to the estate of the insured.
+c.
+If the
+ owner of a policy transfers the policy to another person for consideration, the
+proceeds are taxable. However, amounts paid to acquire the policy and subsequent
+premium payments are treated as return of investment capital.
+Debt Discharge
+20.
+Discharge of indebtedness can result in gross income.
+a.
+Gross income includes the cancellation of indebtedness when a debt is canceled in whole
+or in part for consideration.
+1)
+If a creditor cancels a debt (Form 1099-C) in consideration for services performed
+by the debtor, the debtor must recognize income in the amount of the debt as
+compensation for his or her services.
+2)
+Income from discharge of indebtedness is reported on the same form as for any
+other income (i.e., Schedule C for a sole proprietor).
+b.
+Generally, a corporation has gross income from discharge of indebtedness when it
+satisfies a debt by transferring its own corporate stock to the creditor.
+1)
+The amount of gross income is the amount by which the principal of the debt exceeds
+the value of the transferred stock, plus the value of any other property transferred.
+c.
+If a creditor gratuitously cancels a debt, the amount forgiven is treated as a gift (the IRC
+generally provides for exclusion of gifts from gross income).
+d.
+Exceptions. Gross income does not include discharges that
+1)
+Occur in bankruptcy, except the stock for debt transfer as described in 
+item 20.b.
+above
+.
+
+SU 2: Gross Income I
+9
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+2)
+Occur when the debtor is insolvent but not in bankruptcy.
+a)
+The amount excluded is the smaller of the debt canceled or the amount of
+insolvency, based on the excess of liabilities over the FMV of assets on the
+date of debt cancellation.
+3)
+Are related to qualified farm indebtedness.
+4)
+Are a discharge of qualified real property business indebtedness.
+5)
+Are related to principal residence indebtedness. (
+Item i. below
+ has more information
+on this exception.)
+e.
+When a taxpayer excludes discharge of indebtedness under 
+d.1), 2), or 3) on the previous
+page and above
+, the taxpayer must reduce his or her tax attributes in the 
+following
+ order:
+1)
+NOLs and NOL carryovers
+2)
+General business credit
+3)
+Minimum tax credit
+4)
+Capital loss carryovers
+5)
+Basis of the taxpayer™s property
+6)
+Passive activity loss and passive activity credit carryovers
+7)
+Foreign tax credit carryovers
+NOTE: The taxpayer may first elect to decrease the basis of depreciable property.
+f.
+When there is a debt discharge involving real property, there are typically 
+two
+ separate
+transactions:
+1)
+The property is sold to the lender when the property is acquired by the lender for the
+debt. Form 1099-A may be issued. A gain or loss may be required to be reported
+on the transaction.
+2)
+The lender cancels the debt. Form 1099-C may be issued. Income may have to be
+reported as discussed 
+above
+.
+g.
+The sale of the property and the cancellation of the debt do not have to occur in the same
+year. If they occur in the same year, the lender will issue only a Form 1099-C.
+h.
+When a canceled debt is a nonbusiness debt (e.g., discount for early payment of a
+mortgage loan), it is to be reported as cancellation of debt under Other Income on
+Form 1040 (Schedule 1).
+  E
+XAMPLE
+ 
+2-6              Debt Cancellation
+The amount of debt cancellation as a reward for early payoff of a home mortgage is cancellation of debt
+reported as Other Income on Schedule 1, Form 1040.
+i.
+The Mortgage Forgiveness Debt Relief Act excludes discharges of up to $750,000
+($375,000 if married filing separately) of indebtedness, which is secured by a principal
+residence and which is incurred in the acquisition, construction, or substantial
+improvement of the principal residence.
+1)
+This exclusion applies to discharge of debt occurring after December 31, 2020, and
+before January 1, 2026.
+2)
+The amount excluded from gross income reduces the basis of the residence, but not
+below zero, and only when the taxpayer retains the residence.
+3)
+Principal residence has the same meaning as when used in Sec. 121.
+4)
+The exclusion does not apply if the discharge is due to any reason not directly
+related to a decline in the home™s value or the taxpayer™s financial condition.
+
+10
+SU 2: Gross Income I
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+Student Loan Cancellation
+j.
+Federal, state, and/or local government student loan indebtedness may be discharged and
+excluded from income until 2026 unless the loan is a private education loan or made by
+a tax-exempt organization. If the debt is discharged and the former student engages in
+certain employment (e.g., in a specified location, for a specified period, for a specified
+employer), the discharge is actually compensation for work provided directly to a lender.
+Discharge due to the death or total and permanent disability of the student may also be
+excluded from income.
+Social Security Benefits
+21.
+Social Security benefits are generally not taxable unless additional income is received. The gross
+income inclusion is dependent upon the relation of provisional income (PI) to the base amount
+(BA) and the adjusted base amount (ABA).
+a.
+PI = Adjusted gross income (AGI) + Tax-exempt interest + Excluded foreign income +
+Several other exclusions and deductions + 50% of Social Security benefits.
+b.
+BA means $32,000 if married filing jointly (MFJ), $0 if married filing separately and having
+lived with the spouse at any time during the tax year (MFSLT), or $25,000 for all others.
+c.
+ABA is the BA plus $12,000 if MFJ, $0 if MFSLT, or $9,000 for all others.
+If . . .
+PI 
+
+ BA
+BA < PI 
+
+ ABA
+PI > ABA
+Then SS benefit
+inclusion equals . . .
+0%
+50%
+85%
+  E
+XAMPLE
+ 
+2-7              Taxable Social Security Benefits
+Mr. and Mrs. Slom, both over 65 and filing jointly, received $20,000 in Social Security benefits. Additionally,
+they reported $30,000 of taxable interest, $15,000 of tax-exempt interest, $18,000 in dividends, and a taxable
+pension of $16,000. Therefore, their AGI excluding Social Security benefits is $64,000 ($30,000 taxable interest
++ $18,000 dividends + $16,000 taxable pension payments).
+l
+PI is $89,000 [$64,000 AGI + $15,000 tax-exempt interest + 50% of Social Security benefits
+($10,000)].
+l
+The adjusted base amount is $44,000.
+l
+Gross income will include $17,000 (85% of Social Security benefits) since this amount is less than
+85% of the excess of PI over the ABA plus the lesser of 50% of the incremental BA ($6,000) or 50%
+of Social Security benefits.
+l
+Calculation of included Social Security benefits:
+1)     AGI, excluding Social Security benefits
+$64,000
+2)     + Tax-exempt interest/excluded foreign income
+  +
+15,000
+3)     = Modified AGI
+  =
+$79,000
+4)     + 50% of Social Security benefits
+  +
+10,000
+5)     = PI
+  =
+$89,000
+6)     Œ BA ($32,000, $25,000, or $0)
+  Œ
+32,000
+7)     = Excess PI (If < $0, then $0 inclusion)
+  =
+$57,000
+8)     Œ Incremental base amount ($12,000, $9,000, or $0)
+  Œ
+12,000
+9)     = Excess PI
+  =
+$45,000
+10)   Smaller of amount in line 7 or 8
+$12,000
+11)   50% of line 10
+6,000
+12)   Smaller of amount in line 4 or 11
+6,000
+13)   Multiply line 9 by 85%
+38,250
+14)   Add lines 12 and 13
+44,250
+15)   Social Security benefits × 85%
+17,000
+16)   Taxable benefits = Smaller of amount in line 14 or 15
+17,000
+
+SU 2: Gross Income I
+11
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+Railroad Retirement
+22.
+The Railroad Retirement Board allows for participants to receive retirement annuities at age 60
+with 30 or more years of service. Social Security beneficiaries are not eligible until age 62,
+regardless of how long they have been paying into the system.
+a.
+The Social Security Benefits Worksheet is used to determine whether any of the benefits
+are taxable.
+Illegal Activities
+23.
+Income from illegal activities is gross income.
+Scholarships
+24.
+Amounts received by an individual as scholarships or fellowships are excluded from gross
+income to the extent that the individual is a candidate for a degree from a qualified educational
+institution and the amounts are used for required tuition or fees, books, supplies, or equipment
+(not personal expenses, such as room and board).
+a.
+Gross income includes any amount received, e.g., as tuition reduction, in exchange for the
+performance of services, such as teaching or research.
+b.
+Generally, a reduction in undergraduate tuition for an employee of a qualified educational
+organization does not constitute gross income.
+c.
+Subsistence payments administered by Veteran Affairs are excluded from gross income.
+  E
+XAMPLE
+ 
+2-8              Scholarships
+Laura received a scholarship of $2,500, and as a condition for receiving the scholarship, Laura must serve as
+a part-time teaching assistant. Of the $2,500 scholarship, $1,000 represents payment for teaching. Assuming
+Laura only uses her scholarship for qualified education expenses, Laura will be able to exclude $1,500 from
+income. The $1,000 she received for teaching is taxable and must be included in income.
+
+12
+SU 2: Gross Income I
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+Prizes and Awards
+25.
+If the prize or award is in a form other than money, the amount of gross income is the FMV of the
+property. The honoree may avoid inclusion by rejecting the prize or award. Some prizes and
+awards are excludable.
+a.
+An award recipient may exclude the FMV of the prize or award from his or her gross
+income if
+1)
+The amount received is in recognition of religious, scientific, charitable, or similar
+meritorious achievement;
+2)
+The recipient is selected without action on his or her part;
+3)
+The receipt of the award is not conditioned on substantial future services; and
+4)
+The amount is paid by the organization making the award to a tax-exempt
+organization (including a governmental unit) designated by the recipient.
+b.
+A prize or award may qualify for exclusion as a scholarship.
+c.
+Certain employee achievement awards may qualify for exclusion from the employee™s
+gross income as a de minimis fringe benefit.
+1)
+Employee achievement awards may qualify for exclusion from the recipient
+employee™s gross income if they are awarded as part of a meaningful presentation
+for safety achievement or length of service and
+a)
+The awards do not exceed $400 (cost to employer) for all nonqualified plan
+awards,
+b)
+The awards do not exceed $1,600 (cost to employer) for all qualified plan
+awards, and
+c)
+The awards are tangible personal property. Cash and cash equivalents,
+including gift cards, are not tangible personal property.
+2)
+Awards in excess of limitations
+a)
+If the employer exceeds the cost limitations for the award, the employee™s
+exclusion from income is only preserved up to the limitation. In this case,
+the employee must include in his or her gross income, as compensation, the
+amount by which the cost exceeds the limitation.
+  E
+XAMPLE
+ 
+2-9              Award in Excess of Limitations
+Assume that an award cost the employer $450 and its fair market value is $475. In this case, the employer™s
+deduction is limited to $400, and the amount includible by the employee in his or her income is the difference
+between the item™s cost and the deduction limitation ($50).
+3)
+A qualified plan award is an employee achievement award provided under
+an established written program that does not discriminate in favor of highly
+compensated employees.
+
+SU 2: Gross Income I
+13
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+Unemployment Benefits
+26.
+Unemployment benefits received under a federal or state program, as well as company-financed
+supplemental plans, are gross income.
+a.
+Strike benefits received from a union are also included in income.
+Compensation for Injury or Sickness
+27.
+Gross income does not include benefits specified that might be received in the form of disability
+pay, health or accident insurance proceeds, workers™ compensation awards, or other ﬁdamagesﬂ
+for personal physical injury or physical sickness.
+a.
+Specifically excluded from gross income are amounts received
+1)
+Under workers™ compensation acts as compensation for personal injuries or sickness
+2)
+Under an accident and health insurance policy purchased by the taxpayer even if the
+benefits are a substitute for lost income
+3)
+By employees as reimbursement for medical care and payments for permanent
+injury or loss of bodily function under an employer-financed accident or health plan
+4)
+As a pension, annuity, or similar allowance for personal injuries or sickness resulting
+from active service in the armed forces of any country
+b.
+The 
+following
+ are excluded from gross income regardless of whether the damages are
+received by lawsuits or agreements or as lump sums or periodic payments:
+1)
+Damages received for personal physical injury or physical sickness
+2)
+Payments received for emotional distress if an injury has its origin in a physical injury
+or physical sickness
+c.
+Compensation for slander of personal, professional, or business reputation is included in
+gross income.
+d.
+An in- or out-of-court settlement for lost profits in a business or court-awarded damages is
+included in gross income.
+e.
+Punitive damages received are included in gross income, even if in connection with a
+physical injury or physical sickness.
+1)
+An amount for both actual and punitive damages must be allocated.
+f.
+Wrongful death damages can be excluded to the extent they were received on account of
+a personal injury or sickness.
+g.
+Damages received solely for emotional distress are included in gross income.
+These damages include amounts received for claims, such as employment or age
+discrimination.
+h.
+Interest earned on an award for personal injuries is included in gross income.
+Recovery of Medical Deductions
+i.
+If the taxpayer incurred medical expenses in Year 1, deducted these expenses on his or
+her Year 1 tax return, and received reimbursement for the same medical expenses in
+Year 2, the reimbursement is included in gross income on the Year 2 return to the extent
+of the previous deduction that was allowed on the return.
+
+14
+SU 2: Gross Income I
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+Accident and Health Plans
+28.
+Benefits received by an employee under an accident and health plan under which the employer
+paid the premiums or contributed to an independent fund are excluded from gross income of the
+employee.
+a.
+The benefits must be either
+1)
+Payments made due to permanent injury or loss of bodily functions or
+2)
+Reimbursement paid to the employee for medical expenses of the employee,
+spouse, or dependents.
+a)
+Any reimbursement in excess of medical expenses is included in income.
+b.
+The plan must not discriminate in favor of highly compensated executives, shareholders,
+or officers.
+c.
+Any excess reimbursement over the actual cost of medical expenses may be excluded
+only to the extent the taxpayer contributed to the plan.
+Disability Policies
+29.
+Proceeds from disability insurance policies are tax-free if paid for by the employee.
+a.
+If the employer contributed to the coverage (employer contributions are excluded from
+the employee™s income), then the amount received must be prorated into taxable and
+nontaxable amounts.
+b.
+Payments made from a qualified trust on behalf of a self-employed person are considered
+employer contributions.
+c.
+For example, if the employer pays 75% of the insurance premiums of a disability policy,
+75% of the proceeds are includible in income.
+Employer-Provided Dependent Care
+30.
+Up to $5,000 of dependent care provided by an employer is excluded from income. This includes
+a.
+Amounts paid directly to the taxpayer or the taxpayer™s care provider for the care of the
+dependent
+b.
+FMV of employer-provided daycare facility
+c.
+Pre-tax contributions under a flexible spending plan
+Employer-Provided Life Insurance
+31.
+Proceeds of a life insurance policy for which the employer paid the premiums are excluded from
+the employee™s gross income. Certain premiums paid by the employer are, however, included in
+the employee™s gross income.
+a.
+The cost of group term life insurance up to a coverage amount of $50,000 is excluded
+from the employee™s gross income.
+1)
+The amount included is the premiums representing excess coverage (over $50,000)
+less any amounts paid by the employee on the insurance policy.
+Long-Term Care Coverage
+32.
+Contributions by an employer to an employee™s long-term care coverage are nontaxable
+employee benefits.
+
+SU 2: Gross Income I
+15
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+Pensions
+33.
+Pensions are most often paid in the form of an annuity. Therefore, the rules for pensions are
+similar to the rules for annuities. Employees are able to recover their cost tax-free.
+a.
+The investment in the contract is the amount contributed by the employee in after-tax
+dollars.
+b.
+Amounts withdrawn early are treated as a recovery of the employee™s contributions
+(excluded from gross income) and of the employer™s contributions (included in gross
+income).
+1)
+After all of the employee™s contributions are recovered, additional withdrawals are
+included in gross income.
+c.
+Persons retired on disability before they reach minimum retirement age must report their
+taxable disability payments as wages
+.
+d.
+A foreign pension or annuity distribution is a payment from a pension plan or retirement
+annuity received from a source outside the United States. They are received from a
+1)
+Foreign employer,
+2)
+Trust established by a foreign employer,
+3)
+Foreign government or one of its agencies (including a foreign social security
+pension),
+4)
+Foreign insurance company, or
+5)
+Foreign trust or other foreign entity designated to pay the annuity.
+NOTE: As with domestic pensions or annuities, the taxable amount generally is the gross
+distribution minus the cost (investment in the contract). Income received from foreign
+pensions or annuities may be fully or partly taxable, even if the taxpayer did not receive a
+Form 1099 or the foreign equivalent reporting the amount of the income.
+Death Benefits
+34.
+All death benefits received by the beneficiaries or the estate of an employee from, or on behalf
+of, an employer are included in gross income.
+a.
+This is for employer-paid death benefits, not to be confused with the death benefits of a life
+insurance plan provided by an employer.
+Rental Value of Parsonage
+35.
+Ministers may exclude from gross income the rental value of a home or a rental allowance to
+the extent the allowance is used to provide a home, even if deductions are taken for home
+expenses paid with the allowance. The exclusion is the smaller of
+a.
+The actual expenditures of the minister for the home,
+b.
+The amount designated with the employer as a rental allowance, or
+c.
+The fair rental value of the housing, plus the cost of utilities.
+NOTE: The parsonage allowance is subject to self-employment taxes. A minister should include
+any offerings given directly to him or her for church-related functions (e.g., marriages).
+
+16
+SU 2: Gross Income I
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+Combat Zone Compensation
+36.
+Military officers may exclude compensation up to an amount equal to the highest rate of basic
+pay at the highest pay grade that enlisted personnel may receive (plus any hostile fire/imminent
+danger pay).
+a.
+The exclusion applies only to compensation received while serving in a combat zone or
+while hospitalized as a result of wounds, disease, or injury incurred in a combat zone.
+b.
+Military personnel below officer level (i.e., enlisted) are allowed the same exclusion without
+the cap.
+Gifts or Inheritance
+37.
+The IRC provides for exclusion from the gross income of the recipient the value of property
+acquired by gift or inheritance. A gift is a transfer for less than full or adequate consideration
+that results from the detached and disinterested generosity of the transferor.
+a.
+Gift transfers include inter vivos (between the living) gifts and gifts by bequest (of personal
+property by a will), devise (of real property by a will), and inheritance (under state
+intestacy law).
+b.
+Voluntary transfers from employer to employee are presumed to be compensation, not gifts.
+Treasure Trove
+38.
+Treasure trove is gross income for the tax year in which it is undisputedly in the taxpayer™s
+possession.
+  E
+XAMPLE
+ 
+2-10              Reporting of a Treasure Trove
+Rich purchased an old piano for $500 15 years ago. In the current year, Rich finds $10,000 hidden in the
+piano. Rich must report the $10,000 as gross income in the current year.
+Gambling
+39.
+All gambling winnings are gross income and may require reporting by the payor on Form W-2G.
+a.
+Gambling losses, e.g., nonwinning lottery tickets, are deductible only to the extent of
+winnings as an other itemized deduction.
+b.
+Gambling losses over winnings for the taxable year cannot be used as a carryover or
+carryback to reduce gambling income from other years.
+Recovery of Tax Benefit Item
+40.
+The tax benefit rule includes, in gross income, items received for which the taxpayer received a
+tax benefit in a prior year.
+  E
+XAMPLE
+ 
+2-11              Recovery of Tax Benefit -- Bad Debt
+Taxpayer writes off bad debt 5 years ago. In the current year, the debtor pays Taxpayer the principal of the
+debt written off, which must be included in gross income since the deduction 5 years ago reduced the tax
+liability.
+a.
+Section 111 provides for exclusion of amounts recovered during the tax year that were
+deducted in a prior year to the extent the amount did not reduce income tax.
+  E
+XAMPLE
+ 
+2-12              Recovery Not Providing a Tax Benefit
+Taxpayer pays $2,000 state income tax and itemizes deductions. Subsequent refunds must be included.
+However, if Taxpayer used the standard deduction, the refund would not be included because no tax benefit
+from payment of state income tax was realized.
+
+SU 2: Gross Income I
+17
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+Reimbursements for Moving Expenses
+41.
+Qualified reimbursements incurred by members of the military on active duty are excluded from
+gross income. If the reimbursement is not for qualified moving expenses, or if the taxpayer is
+not a member of the military, it is included in gross income.
+Adoption Assistance Programs
+42.
+Qualified adoption expenses paid to a third party or reimbursed to an employee by an employer
+under a written adoption assistance program are excludable from the employee™s gross income.
+a.
+An adoption assistance program is a written plan that
+1)
+Benefits employees who qualify under rules set up by the employer that do not favor
+highly compensated employees or their dependents,
+2)
+Does not pay more than 5% of its payments each year to shareholders or owners of
+more than 5% of the stock,
+3)
+Provides for adequate notice to employees of their eligibility, and
+4)
+Requires employees to provide reasonable substantiation of qualified expenses that
+are to be paid or reimbursed.
+Adoption Exclusion
+b.
+The maximum exclusion for 
+2023
+ is 
+$15,950
+.
+1)
+The phase-out range for upper-income taxpayers is 
+$239,230
+ to 
+$279,230
+ for 
+2023
+.
+2)
+Adoption expenses must be reduced by an amount used in determining the adoption
+credit.
+c.
+For a child who is a U.S. citizen or resident, the exclusion is taken in the year the
+payments were made whether or not the adoption became final.
+1)
+For the adoption of a foreign child, the exclusion cannot be taken until the adoption
+becomes final.
+d.
+The excluded amount is not subject to income tax withholding. However, the payments are
+subject to Social Security, Medicare, and federal unemployment taxes.
+e.
+An eligible child must be under 18 years of age or must be physically or mentally
+incapable of self care.
+f.
+Qualified adoption expenses are reasonable and necessary adoption expenses, including
+adoption fees, court costs, attorney fees, and other directly related expenses.
+1)
+Expenses that are not eligible for the adoption exclusion include
+a)
+Costs associated with a surrogate parenting arrangement,
+b)
+Expenses incurred in violation of state or federal law, and
+c)
+Expenses incurred in connection with the adoption of a child of the taxpayer™s
+spouse.
+Reimbursement for Living Expenses
+43.
+Insurance payments received by a taxpayer whose residence is damaged or destroyed and
+who must temporarily occupy another residence are excluded. This includes taxpayers with an
+undamaged residence who are required not to occupy the home due to a disaster.
+a.
+The exclusion is limited to the excess of actual living expenses over normal living expenses.
+
+18
+SU 2: Gross Income I
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+Reimbursed Employee Expenses
+44.
+If reimbursements equal expenses and the employee makes an accounting of expenses to
+the employer, the reimbursements are excluded from the employee™s gross income, and the
+employee may not deduct the expenses (accountable plan).
+a.
+This rule also applies if reimbursements exceeding expenses are returned to the employer
+and the employee substantiates the expenses.
+b.
+If excess reimbursements are not returned or if the employee does not substantiate them,
+the reimbursements are included in the employee™s gross income.
+Employee Housing at an Educational Institution
+45.
+Employee housing at an educational institution (including an academic health center) is excluded
+from income if the rent paid by the employee exceeds 5% of the fair market value of the housing.
+Fringe Benefits
+46.
+An employee™s gross income does not include the cost of any fringe benefit supplied or paid for
+by the employer that qualifies as a(n)
+l
+No-additional-cost service
+l
+Qualified employee discount
+l
+Working condition fringe
+l
+De minimis fringe
+l
+Qualified transportation fringe
+l
+Qualified moving expense reimbursement (active military only)
+l
+Employer-provided educational assistance
+No-Additional-Cost Service
+a.
+The value of a no-additional-cost fringe benefit provided to employees, their spouses, or
+their dependent children by employers is excluded from gross income.
+1)
+A no-additional-cost fringe is a service or product that the employer offers for sale
+to customers in the ordinary course of business in which the employee performs
+substantial services.
+a)
+The employer must not incur any substantial additional costs in providing the
+service to the employee.
+b)
+An example is free telephone service to a phone company employee.
+2)
+The fringe benefits must be available to employees on a nondiscriminatory basis;
+e.g., benefits available only to executives are included in their gross income.
+
+SU 2: Gross Income I
+19
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+Employee Discount
+b.
+Certain employee discounts on the selling price of qualified property or services of their
+employer are excluded from gross income. ﬁQualified property or servicesﬂ are offered
+in the ordinary course of business in which the employee is performing services and are
+purchased by the employee for his or her own use.
+1)
+The employee discount may not exceed
+a)
+The gross profit percentage in normal offers by the employer to customers or
+b)
+20% of the price offered to customers in the case of qualified services.
+2)
+The discounts must be available to employees on a nondiscriminatory basis.
+Working Condition Fringe
+c.
+The FMV of property or services provided to an employee by an employer as a working
+condition fringe benefit is excludable by the employee to the extent the employer can
+deduct the costs as an ordinary and necessary business expense.
+1)
+Property or services provided to an employee qualify as a working condition fringe
+benefit only if
+a)
+The employee™s use of the property or services relates to the employer™s trade
+or business,
+b)
+The employee would have been entitled to a business expense deduction if the
+property or services that were provided by the employer had been purchased
+by the employee, and
+c)
+The employee maintains the required records, if any, with respect to the
+business use of the property or services provided by the employer.
+2)
+The maximum value of employer-provided vehicles first made available to
+employees for personal use in 
+2023
+ for which the cents-per-mile valuation may be
+used is 
+$60,800
+. 
+
+20
+SU 2: Gross Income I
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+De Minimis Fringe
+d.
+The value of property or services provided to an employee is excludable as a de minimis
+fringe benefit if the value is so minimal that accounting for it would be unreasonable or
+impracticable.
+1)
+The 
+following
+ are examples of de minimis fringes:
+a)
+Occasional use of company copy machines
+b)
+Occasional company parties or picnics
+c)
+Tickets to entertainment events, if only distributed occasionally
+d)
+Occasional taxi fare or meal money due to overtime work
+e)
+Coffee and snacks
+f)
+Traditional noncash holiday gifts with a small FMV
+g)
+Tokens, vouchers, and reimbursements to cover the costs of commuting
+by public transit as long as the amount of reimbursement provided by the
+employer does not exceed 
+$300
+ a month for any month (
+2023
+).
+NOTE: Any cash benefit or its equivalent (e.g., use of a credit card or gift certificate)
+cannot be excluded as a de minimis fringe benefit under any circumstances. Season
+tickets to sporting events, commuting use of an employer-provided car more than once a
+month, or membership to a private country club or athletic facility are never excludable as
+de minimis fringe benefits.
+2)
+An eating facility for employees is treated as a de minimis fringe benefit if
+a)
+It is located on or near the business premises of the employer and
+b)
+The revenue derived from the facility normally equals or exceeds its direct
+operating costs.
+  E
+XAMPLE
+ 
+2-13              De Minimis Fringe Benefit
+An employer provides meals at its own eating facility, and the direct operating costs of the facility exceed the
+annual revenue from the facility. Because the costs exceed revenue, the benefit is taxable to employees.
+NOTE: The excess value of the meals over the fees charged to employees is
+excluded from employees™ income.
+3)
+The value of an on-premises athletic facility provided by an employer is generally
+excluded from gross income of employees.
+Transportation Fringe
+e.
+Qualified transportation fringe benefits of up to 
+$300
+ per month (
+2023
+) may be excluded
+for the value of employer-provided parking (except residential), transit passes, and
+transportation in an employer-provided ﬁcommuter highway vehicleﬂ (must seat six adults
+with 80% of mileage used for employee commuting when the vehicle is at least 1/2 full)
+between the employee™s residence and place of employment.
+1)
+Employers may offer the cash equivalent of the benefit without the loss of the 
+$300
+employee exclusion for the benefit.
+2)
+If an employee chooses the cash option, cash amounts received are included in
+gross income.
+3)
+Employees may use any combination of these exclusions (i.e., qualified parking at a
+subway terminal).
+
+SU 2: Gross Income I
+21
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+Employer-Provided Educational Assistance
+f.
+Up to $5,250 may be excluded by the employee for employer-provided educational
+assistance.
+1)
+This rule does not apply to graduate teaching or research assistants who receive
+tuition reduction under Sec. 117(d).
+2)
+Excludable assistance payments may not include tools or supplies that the employee
+retains after the course or the cost of meals, lodging, or transportation.
+g.
+Under the CARES Act, payments made by an employer to an employee or lender (up to
+$5,250 per employee) between March 27, 2020, and January 1, 2026, on any qualified
+educational loan incurred by the employee for his or her education may be excluded by
+the employer from the employee™s taxable wages.
+Foreign-Earned Income Exclusion
+47.
+U.S. citizens and qualifying resident aliens may exclude up to 
+$120,000
+ of foreign-earned
+income and a statutory housing cost allowance from gross income.
+a.
+To qualify for exclusion, the taxpayer must have foreign-earned income, a tax home in a
+foreign country, and be one of the 
+following
+:
+1)
+A U.S. citizen who is a bona fide resident of a foreign country or countries for an
+uninterrupted period that includes an entire tax year,
+2)
+A U.S. resident alien who is a citizen or national of a country with which the United
+States has an income tax treaty in effect and who is a bona fide resident of a
+foreign country or countries for an uninterrupted period that includes an entire tax
+year, or
+3)
+A U.S. citizen or a U.S. resident alien who is physically present in a foreign country
+or countries for at least 330 full days during any period of 12 consecutive months.
+b.
+The 
+$120,000
+ limitation must be prorated if the taxpayer is not present in (or a resident of)
+the foreign country for the entire year (Form 2555).
+c.
+This exclusion is in lieu of the foreign tax credit.
+d.
+Deductions attributed to the foreign-earned income (which is excluded) are disallowed.
+e.
+The 
+following
+ table clarifies the types of income for the purposes of the foreign-earned
+income exclusion:
+Earned Income
+Unearned Income
+Variable Income
+Salaries and wages
+Dividends
+Business profits
+Commissions
+Interest
+Royalties
+Bonuses
+Capital gains
+Rents
+Professional fees
+Gambling winnings
+Scholarships and fellowships
+Tips
+Alimony
+Social Security benefits
+Pensions
+Annuities
+
+22
+SU 2: Gross Income I
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+Foreign Housing Allowance
+48.
+The inflation-adjusted standard cost-allowance for 
+2023
+ is 
+$36,000
+ (
+$120,000
+ × 30%) for those
+locations not on the IRS™s list of high-cost locations.
+a.
+Foreign housing allowances are broken into 
+three categories
+:
+1)
+The first 
+$19,200
+ (
+$120,000
+ × 16%) of any foreign housing reimbursement is
+includible in income,
+2)
+The next portion of any reimbursement up to the greater of 
+$36,000
+ or the amount
+listed for the city on the IRS™s list of high-cost locations is excludable from income
+(for a maximum exclusion of 
+$16,800
+ in 
+2023
+), and
+3)
+Any reimbursement exceeding the amount in 
+item 2) above
+ is includible in income.
+b.
+The chart 
+below
+ can help you determine whether a taxpayer can claim either the foreign-
+earned income exclusion or the foreign housing exclusion.
+Figure 2-1
+Rebate
+49.
+A rebate to the purchaser is treated as a reduction of the purchase price. It is not included in
+gross income.
+
+SU 2: Gross Income I
+23
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+Community Property Income
+50.
+The question of tax liability for married persons filing separate returns arises frequently during
+discussions concerning to whom income is taxable. Several states have community property
+laws. These states require significantly different treatment of tax liability than in states without
+such laws.
+a.
+In the 
+nine
+ community property states of Arizona, California, Idaho, Louisiana, Nevada,
+New Mexico, Texas, Washington, and Wisconsin, all property acquired by spouses 
+after
+marriage is considered as owned by them in community, and as such, is referred to as
+community property.
+1)
+Any income from these properties is automatically considered joint or community
+income, and if taxpayers are filing separate tax returns, the income would be
+shared equally between them on their separate returns.
+2)
+Wisconsin has implemented a marital property act; therefore, for federal income tax
+purposes, it is considered a community property state.
+3)
+Alaska adopted an optional system whereby a couple can choose to opt in to the
+community property system.
+b.
+Property acquired 
+before
+ marriage or inherited by one spouse during marriage is
+considered to be that spouse™s separate property.
+1)
+In California, Arizona, Nevada, New Mexico, and Washington, any income from
+these separate properties is considered separate income; thus, if the spouses are
+filing separately, the income would not be shared and would be reported on that
+spouse™s separate return.
+2)
+Conversely, in Texas, Idaho, Louisiana, and Wisconsin, income from these
+separate properties is considered community income; thus, if the spouses are filing
+separately, the income would be shared between them on their separate returns.
+c.
+Section 66 of the IRC sets forth a specific rule for treatment of community income when
+the spouses live apart. The need for this section arose because, in community property
+states, each spouse is liable for one-half of the tax on income. Generally, when spouses
+are living apart, the spouse that earns the income will keep it.
+d.
+If two individuals are married to each other at some time during a calendar year but live
+apart for the 
+entire
+ tax year, do not file a joint return, and one or both have earned
+income, none of which is transferred between them, the 
+following
+ rules cover the
+reporting of income on their separate tax returns:
+1)
+Earned income (other than trade or business income and partnership income) is
+treated as income of the spouse who rendered the personal services.
+2)
+Trade or business income shall be treated as the gross income and deductions of
+the spouse carrying on such trade or business or, if such trade or business is jointly
+operated, treated as the gross income and deductions of each spouse on the basis
+of their respective distributive share of the gross income and deductions.
+3)
+Community income derived from the separate property of one spouse is treated as
+the income of such spouse.
+4)
+All other community income is taxed in accordance with the applicable community
+property law.
+
+24
+SU 2: Gross Income I
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+Statutory Employees
+51.
+Business taxpayers must determine the correct classification for each worker.
+a.
+A statutory employee is a worker who straddles the divide between being self-employed
+and being considered a regular employee.
+1)
+A statutory employee is a person who is in business for himself or herself, but who
+works primarily or wholly for a specific company.
+b.
+If workers are independent contractors under the common law rules, such workers may
+nevertheless be treated as employees by statute (statutory employees) for certain
+employment tax purposes if they fall within any one of the 
+following four
+ categories and
+meet the 
+three
+ conditions described under Social Security and Medicare taxes (listed in
+item d. below
+):
+1)
+A driver who distributes beverages (other than milk) or meat, vegetable, fruit, or
+bakery products, or who picks up and delivers laundry or dry cleaning, if the driver
+is the business agent or is paid on commission.
+2)
+A full-time life insurance sales agent whose principal business activity is selling life
+insurance or annuity contracts, or both, primarily for one life insurance company.
+3)
+An individual who works at home on materials or goods that the taxpayer/employer
+supplies and that must be returned to the taxpayer or to a person the taxpayer
+names if the taxpayer also furnishes specifications for the work to be done.
+4)
+A full-time traveling or city salesperson who works on the taxpayer™s/employer™s
+behalf and turns in orders to the taxpayer from wholesalers; retailers; contractors;
+or operators of hotels, restaurants, or other similar establishments. The goods
+sold must be merchandise for resale or supplies for use in the buyer™s business
+operation. The work performed for the taxpayer must be the salesperson™s principal
+business activity.
+c.
+Officers of exempt organizations are considered statutory employees.
+d.
+The employer withholds Social Security and Medicare taxes from the wages of statutory
+employees if 
+all three of the following
+ conditions apply:
+1)
+The service contract states or implies that substantially all the services are to be
+performed by them.
+2)
+They do not have a substantial investment in the equipment and property used to
+perform the services (other than an investment in transportation facilities).
+3)
+The services are performed on a continuing basis for the same payer.
+e.
+Companies report their payments to statutory employees on Form W-2, but they must
+check Box 13 on the W-2 for ﬁStatutory employee.ﬂ
+1)
+Federal income tax is not withheld from the wages of statutory employees.
+2)
+Federal unemployment (FUTA) taxes are paid by employers on the first and fourth
+categories 
+[b.1) and b.4) above]
+ of statutory employees but not on categories 
+b.2)
+and b.3)
+.
+
+SU 2: Gross Income I
+25
+Copyright © 2024 Gleim Publications, Inc. All rights reserved. Duplication prohibited. Reward for information exposing violators. Contact 
+copyright@gleim.com
+.
+f.
+Statutory employee earnings are reported on 
+line 1
+ of Schedule C, 
+Profit or Loss From
+Business
+.
+1)
+Employees check the box on 
+line 1
+ of Schedule C.
+a)
+The employee does not have to fill out a Schedule SE.
+2)
+The employee is permitted to deduct work-related expenses on Schedule C.
+3)
+The employee does not combine statutory employee income and other income from
+a business on a single Schedule C.
+a)
+Two Schedule Cs must be filed, and only the income from the non-statutory-
+employee business will flow through to Schedule SE.
+g.
+Statutory employees are not eligible to participate in retirement plans sponsored by the
+company that employs them.
+1)
+Statutory employees are regarded as ﬁself-employed individualsﬂ under
+Sec. 401(c)(1)
+ and allowed to set up their own retirement plans.
+2)
+Full-time life insurance salespersons are deemed to be employed by the insurance
+company whose policies the salespersons sell for the purposes of retirement and
+health plans and can be covered under the insurance company retirement plan.
