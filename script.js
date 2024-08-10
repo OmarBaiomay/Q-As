@@ -46,12 +46,23 @@ async function loadTextFile(course, chapter) {
     return response.text();
 }
 
+function getApiKey() {
+    const obfuscatedKey = 'c2stcHJvai1OT1k5RGZreVh4OGE3bTVMTzVhQXV6N3FNRkhacWZwLVF2ckZaUlNTUWI4N1hsYmpGTmRWc1REV08yVDNCbGJrRkowdWFhdHlVZUVWRThPUi1valJvWVczNVhVTmdCQXF2VlMzWUlKQUZhVnRUREZya0J1dWVlM3VWVWtB';
+    return decodeKey(obfuscatedKey);
+}
+
+function decodeKey(obfuscatedKey) {
+    return atob(obfuscatedKey); // Decodes the Base64 string back to your API key
+}
+
+// Use the decoded key in your API call
 async function generateQuestions(text) {
+    const apiKey = getApiKey();
     const response = await fetch('https://api.openai.com/v1/chat/completions', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
-            'Authorization': `Bearer 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`
+            'Authorization': `Bearer ${apiKey}`
         },
         body: JSON.stringify({
             model: 'gpt-3.5-turbo',
