@@ -51,7 +51,7 @@ async function generateQuestions(text) {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
-            'Authorization': `Bearer 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`
+            'Authorization': `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`
         },
         body: JSON.stringify({
             model: 'gpt-3.5-turbo',
